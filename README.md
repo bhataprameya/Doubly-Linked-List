@@ -1,2 +1,3 @@
 # Doubly-Linked-List
-Doubly linked list CRUD operations and Stack and Queue using doubly linked list
+Implementation Doubly linked list CRUD operations 
+Implementation of Stack and Queue using doubly linked list
